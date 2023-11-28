@@ -160,9 +160,7 @@ happened before we set the environment variables! (it starts building as soon
 as we did `netlify init`). This is OK! This last (just now) deployment should
 succeed
 
-<!--
-  Presenter can take the time to create the services that are needed for the
-  "and this is how we handle production" bit at the end -->
+> **Presenter note** Presenter can take the time to create the services that are needed for the "and this is how we handle production" bit at the end
 
 Open the deployed app (from the netlify page) and show it works.
 
