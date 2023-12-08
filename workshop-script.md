@@ -49,7 +49,7 @@ Check people have an Aiven login, and quickly show them how to get on.
 
 Lead them through creating the PostgreSQL and Redis services they’re going to need
 
-> We recommend using `aws-us-east-1` in the North America region to minimise latency, as this region will be closest to where the Netlify free plan deploys its functions.
+> We recommend using `do-nyc` in the North America region to minimise latency, as this region will be closest to where the Netlify free plan deploys its functions.
 
 While those are running up, lead them through getting a Netlify account.
 
